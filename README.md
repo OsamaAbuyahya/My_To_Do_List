@@ -1,8 +1,8 @@
 # My_To_Do_List
 An application that enables you to write tasks and modify them
 
+![Farmers Market Finder - Animated gif demo](https://drive.google.com/file/d/15lMLWzheTawyWXykbeJfHrLF0H1g7knv/view?usp=sharing)
 
-![](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif)
 
 ## Using 
 * Kotlin
