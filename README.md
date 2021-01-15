@@ -1,9 +1,6 @@
 # My_To_Do_List
 An application that enables you to write tasks and modify them
 
-![](https://drive.google.com/file/d/15lMLWzheTawyWXykbeJfHrLF0H1g7knv/view?usp=sharing)
-
-
 ## Using 
 * Kotlin
 * Navigation Component
