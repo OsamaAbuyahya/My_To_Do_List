@@ -1,7 +1,7 @@
 # My_To_Do_List
 An application that enables you to write tasks and modify them
 
-![](file:///C:/Users/owner/Desktop/Screen-Recording-20210115-165819.gif)
+![](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif)
 
 ## Using 
 * Kotlin
