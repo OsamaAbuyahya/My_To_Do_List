@@ -1,5 +1,9 @@
 # My_To_Do_List
 An application that enables you to write tasks and modify them
+
+
+![](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif)
+
 ## Using 
 * Kotlin
 * Navigation Component
